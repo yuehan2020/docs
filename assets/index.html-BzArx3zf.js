@@ -1,0 +1,1 @@
+import{_ as t,o,c as n,a as e}from"./app-fmVbI_Rn.js";const s={},c=e("nav",{class:"table-of-contents"},[e("ul")],-1),_=e("p",null,"hello word🎉 ！",-1),l=[c,_];function a(r,d){return o(),n("div",null,l)}const f=t(s,[["render",a],["__file","index.html.vue"]]);export{f as default};
